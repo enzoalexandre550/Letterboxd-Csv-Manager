@@ -23,9 +23,10 @@ Este projeto consiste na análise e manipulação de dados utilizando Python e J
 - Filtros por idioma, ano e duração  
 - Análises quantitativas  
 
-## Como Executar
+## Como Executar no Google Colab
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-jupyter notebook
+1. Acesse o Google Colab
+2. Faça upload do arquivo letterboxd_movies_dataset.csv
+3. Abra o arquivo do Letterboxd_Manager.ipynb
+4. Execute todas as células (Executar tudo)
